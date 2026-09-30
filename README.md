@@ -20,11 +20,3 @@ Tenho interesse em bancos de dados, APIs, RAG e MLOps. Busco aprender continuame
   <img src="https://img.shields.io/badge/API-333333?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jpcanedo&show_icons=true&hide_border=true&theme=github_dark&locale=pt-br" alt="Estatísticas do GitHub de jpcanedo" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcanedo&layout=compact&hide_border=true&theme=github_dark&locale=pt-br" alt="Linguagens mais usadas por jpcanedo" />
-</p>
