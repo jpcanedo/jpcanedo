@@ -12,7 +12,7 @@ Tenho interesse em bancos de dados, APIs, RAG e MLOps. Busco aprender continuame
 ## 💻​ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,linux,cpp,mysql,vscode,js,c,godot,lua" alt="Python, Linux, C++, MySQL, VS Code, JavaScript, C, Godot e Lua" />
+  <img src="https://skillicons.dev/icons?i=python,linux,cpp,mysql,vscode,js,c,godot,lua,git" alt="Python, Linux, C++, MySQL, VS Code, JavaScript, C, Godot, Lua e Git" />
 </p>
 
 <p>
